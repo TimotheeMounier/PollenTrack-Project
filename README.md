@@ -3,5 +3,10 @@ PollenTrack is a pollen sensor project developed as part of the engineering proj
 
 
 
-<h1>Final visual of the PollenTrack sensor</h1>
-![A plot of the data](Images/Capture d'écran 2024-04-21 160250.png)
+
+<h1 align="center">
+    Final visual of the PollenTrack sensor
+    <img src="?raw=true" alt="MarcoX Logo" width="200"></a>
+    <br>
+    MarcoX
+</h1>

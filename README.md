@@ -5,7 +5,6 @@ PollenTrack is a pollen sensor project developed as part of the engineering proj
 
 
 <h1 align="center">
-    
     <img src="https://github.com/TimotheeMounier/PollenTrack-Project/blob/main/Images/Capture%20d'%C3%A9cran%202024-04-21%20160250.png?raw=true" alt="PollenTrack CAD" width="200"></a>
     <br>
     PollenTrack

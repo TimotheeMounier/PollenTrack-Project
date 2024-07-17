@@ -6,7 +6,7 @@ PollenTrack is a pollen sensor project developed as part of the engineering proj
 
 <h1 align="center">
     Final visual of the PollenTrack sensor
-    <img src="?raw=true" alt="MarcoX Logo" width="200"></a>
+    <img src="https://github.com/TimotheeMounier/PollenTrack-Project/blob/main/Images/Capture%20d'%C3%A9cran%202024-04-21%20160250.png?raw=true" alt="PollenTrack CAD" width="200"></a>
     <br>
-    MarcoX
+    PollenTrack
 </h1>

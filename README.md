@@ -14,9 +14,10 @@ PollenTrack is a pollen sensor project developed as part of the engineering proj
 ## Mechanical CAD
 
 * **Walls**: These are the walls of the box that we build which are composed of the different elements.
-* **Tape adhesive Start**: The tape adhesive start is composed of component you need to unwrap the adhesive tape.
+* **Start adhesive tape**: The  start adhesive tape is composed of component you need to unwrap the adhesive tape.
 * **Interface Indoor Outdoor**: This include the handle of our box and the LED interface
 * **Sensing Part**: The sensing part is composed of a chimney which allows the fixation of a fan. An other piece piece like a funnel has been realized in oder to focus the pollen and maintain the adhesive tape
+* **Motorization**: Motorization includes pieces which are necessary for the wrap of the adhesive tape. Ref Motor :NEMA 17HS4401 (3D print motor)
 
 ## Laser Cutting
 

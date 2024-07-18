@@ -3,7 +3,6 @@ PollenTrack is a pollen sensor project developed as part of the engineering proj
 
 <h2 align="center">Final visual of the PollenTrack sensor in 3D</h2>
 
-
 <h1 align="center">
     <img src="https://github.com/TimotheeMounier/PollenTrack-Project/blob/main/Images/Capture%20d'%C3%A9cran%202024-04-21%20160250.png?raw=true" alt="PollenTrack CAD" width="600"></a>
     <br>
@@ -13,7 +12,10 @@ PollenTrack is a pollen sensor project developed as part of the engineering proj
 
 ## Mechanical CAD
 
-All 3D printparts are in `.stl` format. 
+
+### Printed parts
+
+All 3D printed parts are in `.stl` format. 
 
 * **Walls**: These are the walls of the box that we build which are composed of the different elements.
 * **Start adhesive tape**: The  start adhesive tape is composed of component you need to unwrap the adhesive tape.

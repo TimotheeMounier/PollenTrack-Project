@@ -21,12 +21,16 @@ All 3D printparts are in `.stl` format.
 * **Sensing Part**: The sensing part is composed of a chimney which allows the fixation of a fan. An other piece piece like a funnel has been realized in oder to focus the pollen and maintain the adhesive tape
 * **Motorization**: Motorization includes pieces which are necessary for the wrap of the adhesive tape. Ref Motor :NEMA 17HS4401 (3D print motor)
 
+### Printer settings
+
+Tested settings, but feel free to adapt them to your printer and material.:
+
 * Layer height: 0.2mm
 * Infill: 30%
 * Nozzle diameter: 0.4mm
 * Material: ASA to Interface and sensing part / PETG for the others
 
-* 
+  
 ## Laser Cutting
 
 * **Box**: It contains the scheme of the box that you can cut with a laser.

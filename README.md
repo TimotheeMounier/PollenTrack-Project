@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=115&section=header"/>
+</h1>
+
 # PollenTrack-Project
 PollenTrack is a pollen sensor project developed as part of the engineering projects at our school.  This repo focus on hardware. All parts are designed to be easily printed or laser cut by beginners.
 
@@ -39,3 +43,6 @@ Tested settings, but feel free to adapt them to your printer and material.:
 
 Laser cut parts are in `.svg` format. Red lines width is 0.2mm and are adapted for [Trotec Speedy 100](https://www.troteclaser.com/static/pdf/speedy-100/Fiche-technique-Speedy-100C-8063-fr.pdf) laser cutter.
 Material: 6mm plywood recommended.
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=115&section=footer"/>
